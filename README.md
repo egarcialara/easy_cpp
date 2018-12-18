@@ -15,11 +15,12 @@ Each script performs a simple action:
 
 
 
+
 In order to use your own scripts, you should 
 1. create a file 'new_script.cpp', 
 2. edit the file with any text editor,
-3. compile your script using e.g. g++ (in the console: $ g++ name_script.cpp -o new_program.exe More info in https://courses.cs.washington.edu/courses/cse373/99au/unix/g++.html),
-4. run your program (in the console: $ ./new_program.exe) 
+3. compile your script using e.g. g++ (in the console: *$ g++ name_script.cpp -o new_program.exe*  More info in https://courses.cs.washington.edu/courses/cse373/99au/unix/g++.html),
+4. run your program (in the console: *$ ./new_program.exe*) 
 
 
 Authors: Alberto García, Elena Garcia 
