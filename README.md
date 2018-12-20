@@ -23,4 +23,4 @@ In order to use your own scripts, you should
 4. run your program (in the console: *$ ./new_program.exe*) 
 
 
-Authors: Alberto García, Elena Garcia 
+Authors: Alberto García, Elena García 
